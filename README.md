@@ -1,5 +1,4 @@
-Witam </br>
-Nazywam się Marcin i próbuje coś zaprogramować
+Random Poland Guy
 
 <!---
 foxybus/foxybus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
