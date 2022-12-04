@@ -1,6 +1,6 @@
 <h1>Random Poland Guy</h1>
-<h2>Polish YouTube Channel: https://www.youtube.com/channel/UCFbAxtNbkSzhsqVww8Gvd8A </h2>
-<h2>English YouTube Channel: https://www.youtube.com/@foxybusDEV </h2>
+<h3>Polish YouTube Channel: https://www.youtube.com/channel/UCFbAxtNbkSzhsqVww8Gvd8A
+English YouTube Channel: https://www.youtube.com/@foxybusDEV </h3>
 
 <!---
 foxybus/foxybus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
